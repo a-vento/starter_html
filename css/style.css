@@ -1,0 +1,24 @@
+h1 {
+    font-size: 2em; 
+    font-family: Arial;
+    text-align: center;
+}
+h2{
+	font-size: 2em; 
+	font-family: Arial;
+    color: green;
+}
+h3{
+	font-size: 2em; 
+	font-family: Arial;
+    color: purple;
+}
+p {
+    line-height: 10px;
+}
+img{
+    border: 5px solid red;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
