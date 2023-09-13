@@ -4,22 +4,22 @@ body {
 }
 
 h1 {
-    font-size: 6em; 
-    font-family: Arial;
+    font-size: 2em; 
+    font-family: Monaco;
     text-align: center;
 }
 h2{
 	font-size: 2em; 
-	font-family: Arial;
+	font-family: Copperplate;
     color: green;
 }
 h3{
 	font-size: 2em; 
-	font-family: Arial;
+	font-family: Verdana;
     color: purple;
 }
 p {
-    line-height: 10px;
+    line-height: 20px;
 }
 img{
     border: 5px solid red;
@@ -27,7 +27,7 @@ img{
     margin: 20px;
     border-top-right-radius: 30px;
 }
-ul {
+ul li{
     display: inline-block;
     margin-left: 50px;
 }
